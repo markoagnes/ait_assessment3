@@ -1,1 +1,1 @@
-# ait_assessment3
+# A project for a Deep learning class at AIT-Budapest
